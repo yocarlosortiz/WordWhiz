@@ -1,5 +1,5 @@
 WordWhiz
-WordWhiz is a full-stack word-guessing game where players crack the secret word, one letter at a time, using clever clues. The project features a Python FastAPI backend and a modern React + Tailwind CSS frontend.
+WordWhiz is a full-stack word-guessing game app where players crack the secret word, one letter at a time, using clever clues. The project features a Python FastAPI backend and a modern React + Tailwind CSS frontend.
 
 Features
 Fun word-guessing gameplay with clues and limited attempts
