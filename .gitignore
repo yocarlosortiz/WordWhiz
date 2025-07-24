@@ -1,0 +1,22 @@
+# Python
+wordwhiz-backend/venv/
+wordwhiz-backend/__pycache__/
+wordwhiz-backend/*.pyc
+wordwhiz-backend/.env
+
+# Node/React
+wordwhiz-frontend/node_modules/
+wordwhiz-frontend/build/
+wordwhiz-frontend/.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Backup
+*.bak 
