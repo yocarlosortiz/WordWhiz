@@ -8,8 +8,6 @@ React frontend with a clean, responsive UI (Tailwind CSS)
 CORS enabled for smooth local development
 Easy local setup for both backend and frontend
 
-Project Structure
-
 Getting Started
 1. Clone the Repository
 WordWhiz
