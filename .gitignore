@@ -19,4 +19,4 @@ wordwhiz-frontend/.env
 *.log
 
 # Backup
-*.bak 
+*.bak node_modules/
